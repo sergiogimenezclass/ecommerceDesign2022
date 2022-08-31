@@ -1,0 +1,9 @@
+.carousel {
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+.card {
+    /* Para persoanlizar las caracteristicas de boostrap primero cargamos el archivo de bootsatrpa y luego nuestro archivo propio, en él sobreescribimos las propiedad de las clases (class). */
+    /* border: 5px solid pink; */
+}
